@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "zwj",
-    "description": "��¼����ĵ��",
+    "description": null,
     "home_page_url": "https://Steven-Zou-322.github.io",
     "items": [
         {
-            "id": "https://steven-zou-322.github.io/2021/05/14/hello/",
-            "url": "https://steven-zou-322.github.io/2021/05/14/hello/",
+            "id": "https://steven-zou-322.github.io/2021/05/14/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/",
+            "url": "https://steven-zou-322.github.io/2021/05/14/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/",
             "title": "前端入门",
             "date_published": "2021-05-14T05:18:05.000Z",
             "content_html": "",
